@@ -1,0 +1,6 @@
+{
+  "NODE_ENV": "development",
+  "MONGODB_URI": "mongodb+srv://riz2019247:riz1234@cluster0.qzqw50d.mongodb.net/",
+  "RATE": 40,
+  "PORT": 4000
+}
