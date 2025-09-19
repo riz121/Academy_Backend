@@ -1,12 +1,15 @@
 const express = require('express');
 const logger = require('./libraries/log/logger');
 const domainRoutes = require('./domains/index');
+const cors = require("cors");
 
 function defineRoutes(expressApp) {
   logger.info('Defining routes...');
   const router = express.Router();
 
   domainRoutes(router);
+
+  expressApp.use(cors());
 
   expressApp.use('/api/v1', router);
   // health check
