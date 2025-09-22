@@ -8,13 +8,14 @@ const {
   getById,
   updateById,
   deleteById,
+  getALl,
 } = require('./service');
 
 const { createSchema, updateSchema, idSchema } = require('./request');
 const { validateRequest } = require('../../middlewares/request-validate');
 const { logRequest } = require('../../middlewares/log');
 
-const model = 'Product';
+const model = 'Classes';
 
 // CRUD for entity
 const routes = () => {
@@ -31,8 +32,10 @@ const routes = () => {
     }
   });
 
+  
+
   router.post(
-    '/',
+    '/create',
     logRequest({}),
     validateRequest({ schema: createSchema }),
     async (req, res, next) => {
@@ -62,14 +65,30 @@ const routes = () => {
     }
   );
 
+   router.get(
+    '/getALl',
+    logRequest({}),
+    async (req, res, next) => {
+      try {
+        const item = await getALl();
+        if (!item) {
+          throw new AppError(`${model} not found`, `${model} not found`, 404);
+        }
+        res.status(200).json(item);
+      } catch (error) {
+        next(error);
+      }
+    }
+  );
+
   router.put(
-    '/:id',
+    '/:_id',
     logRequest({}),
     validateRequest({ schema: idSchema, isParam: true }),
     validateRequest({ schema: updateSchema }),
     async (req, res, next) => {
       try {
-        const item = await updateById(req.params.id, req.body);
+        const item = await updateById(req.params._id, req.body);
         if (!item) {
           throw new AppError(`${model} not found`, `${model} not found`, 404);
         }

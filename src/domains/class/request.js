@@ -2,21 +2,19 @@ const Joi = require('joi');
 const mongoose = require('mongoose');
 
 const createSchema = Joi.object().keys({
-  name: Joi.string().required(),
-  description: Joi.string().required(),
-  price: Joi.number().required(),
-  inStock: Joi.boolean().optional(),
+  className: Joi.string().required(),
+  classCode: Joi.string().required(),
+  grade: Joi.number().required(),
 });
 
 const updateSchema = Joi.object().keys({
-  name: Joi.string(),
-  description: Joi.string(),
-  price: Joi.number(),
-  inStock: Joi.boolean(),
+  className: Joi.string().required(),
+  classCode: Joi.string().required(),
+  grade: Joi.number().required(),
 });
 
 const idSchema = Joi.object().keys({
-  id: Joi.string()
+  _id: Joi.string()
     .custom((value, helpers) => {
       if (!mongoose.Types.ObjectId.isValid(value)) {
         return helpers.error('any.invalid');

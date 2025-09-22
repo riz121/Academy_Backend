@@ -1,10 +1,10 @@
-const productRoutes = require('./product');
+const classRoutes = require('./class');
 const UserRoutes = require('./Users');
 
 
 const defineRoutes = async (expressRouter) => {
    UserRoutes(expressRouter); 
-   productRoutes(expressRouter);
+   classRoutes(expressRouter);
 };
 
 module.exports = defineRoutes;

@@ -3,7 +3,7 @@ const logger = require('../../libraries/log/logger');
 const Model = require('./schema');
 const { AppError } = require('../../libraries/error-handling/AppError');
 
-const model = 'product';
+const model = 'classes';
 
 const create = async (data) => {
   try {
@@ -52,6 +52,17 @@ const getById = async (id) => {
   }
 };
 
+const getALl = async () => {
+  try {
+    const item = await Model.find();
+    logger.info(`getById(): ${model} fetched`, { id });
+    return item;
+  } catch (error) {
+    logger.error(`getById(): Failed to get ${model}`, error);
+    throw new AppError(`Failed to get ${model}`, error.message);
+  }
+};
+
 const updateById = async (id, data) => {
   try {
     const item = await Model.findByIdAndUpdate(id, data, { new: true });
@@ -80,4 +91,5 @@ module.exports = {
   getById,
   updateById,
   deleteById,
+  getALl
 };
