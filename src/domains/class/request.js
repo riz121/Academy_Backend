@@ -11,6 +11,7 @@ const updateSchema = Joi.object().keys({
   className: Joi.string().required(),
   classCode: Joi.string().required(),
   grade: Joi.number().required(),
+  status:Joi.boolean().required()
 });
 
 const idSchema = Joi.object().keys({
