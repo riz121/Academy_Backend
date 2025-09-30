@@ -2,16 +2,14 @@ const Joi = require('joi');
 const mongoose = require('mongoose');
 
 const createSchema = Joi.object().keys({
-  className: Joi.string().required(),
-  classCode: Joi.string().required(),
-  grade: Joi.number().required(),
+  courseName: Joi.string().required(),
+  courseCode: Joi.string().required(),
   status:Joi.boolean().required()
 });
 
 const updateSchema = Joi.object().keys({
-  className: Joi.string().required(),
-  classCode: Joi.string().required(),
-  grade: Joi.number().required(),
+  courseName: Joi.string().required(),
+  coursecode: Joi.string().required(),
   status:Joi.boolean().required()
 });
 

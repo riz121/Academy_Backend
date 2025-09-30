@@ -34,7 +34,7 @@ const StudentSchema = new Schema({
   koreanFull:   { type: String, maxlength: 80, trim: true },
 
   //school: { type: Schema.Types.ObjectId, ref: 'School', required: true },
-  classRef: { type: Schema.Types.ObjectId, ref: 'Class' },
+  classRef: [{ type: Schema.Types.ObjectId, ref: 'Class' }],
 
   sex: { type: String, enum: ['M','F'], required: true },
 
@@ -67,6 +67,19 @@ const StudentSchema = new Schema({
   notes: { type: String, maxlength: 500 },
   
   status: { type: Boolean, default: false },
+  address :{
+        street: { type: String, required: true },
+        city:   { type: String, required: true },
+        state:  { type: String },
+        postalCode: { type: String, required: true },
+        country: { type: String, required: true },
+  },
+  transportType :{
+    type: String,
+  },
+   courses: [{ type: mongoose.Schema.Types.ObjectId, ref: "Course" }],
+   bus:{type: mongoose.Schema.Types.ObjectId, ref: "Bus" },
+   teachers: [{ type: mongoose.Schema.Types.ObjectId, ref: "Teacher" }],
 
   // draft flag for autosave behavior
   draft: { type: Boolean, default: false },

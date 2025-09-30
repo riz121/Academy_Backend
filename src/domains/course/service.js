@@ -3,7 +3,7 @@ const logger = require('../../libraries/log/logger');
 const Model = require('./schema');
 const { AppError } = require('../../libraries/error-handling/AppError');
 
-const model = 'customer';
+const model = 'classes';
 
 const create = async (data) => {
   try {
@@ -24,9 +24,8 @@ const search = async (query) => {
     const { keyword } = query ?? {};
     const filter = {};
     if (keyword) {
-      filter.or = [
-        { name: { regex: keyword, options: 'i' } },
-        { description: { regex: keyword, options: 'i' } },
+      filter.$or = [
+        { courseName: { $regex: keyword, $options: 'i' } },
       ];
     }
     const items = await Model.find(filter);
@@ -44,6 +43,17 @@ const search = async (query) => {
 const getById = async (id) => {
   try {
     const item = await Model.findById(id);
+    logger.info(`getById(): ${model} fetched`, { id });
+    return item;
+  } catch (error) {
+    logger.error(`getById(): Failed to get ${model}`, error);
+    throw new AppError(`Failed to get ${model}`, error.message);
+  }
+};
+
+const getALl = async () => {
+  try {
+    const item = await Model.find();
     logger.info(`getById(): ${model} fetched`, { id });
     return item;
   } catch (error) {
@@ -80,4 +90,5 @@ module.exports = {
   getById,
   updateById,
   deleteById,
+  getALl
 };
