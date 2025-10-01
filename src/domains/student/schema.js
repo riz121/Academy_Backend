@@ -77,7 +77,7 @@ const StudentSchema = new Schema({
   transportType :{
     type: String,
   },
-   classes: [{ type: mongoose.Schema.Types.ObjectId, ref: "Classes" }],
+   courses: [{ type: mongoose.Schema.Types.ObjectId, ref: "Course" }],
    bus:{type: mongoose.Schema.Types.ObjectId, ref: "Bus" },
    teachers: [{ type: mongoose.Schema.Types.ObjectId, ref: "Teacher" }],
 

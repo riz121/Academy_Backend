@@ -9,5 +9,5 @@ const schema = new mongoose.Schema({
 });
 schema.add(baseSchema);
 
-module.exports = mongoose.model('Classes', schema);
+module.exports = mongoose.model('Class', schema);
 
