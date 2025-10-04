@@ -22,15 +22,15 @@ const routes = () => {
   const router = express.Router();
   logger.info(`Setting up routes for ${model}`);
 
-  router.get('/', logRequest({}), async (req, res, next) => {
-    try {
-      // TODO: Add pagination and filtering
-      const items = await search(req.query);
-      res.json(items);
-    } catch (error) {
-      next(error);
-    }
-  });
+  // router.get('/', logRequest({}), async (req, res, next) => {
+  //   try {
+  //     // TODO: Add pagination and filtering
+  //     const items = await search(req.query);
+  //     res.json(items);
+  //   } catch (error) {
+  //     next(error);
+  //   }
+  // });
 
   
 
@@ -49,12 +49,12 @@ const routes = () => {
   );
 
   router.get(
-    '/:id',
+    '/:_id',
     logRequest({}),
     validateRequest({ schema: idSchema, isParam: true }),
     async (req, res, next) => {
       try {
-        const item = await getById(req.params.id);
+        const item = await getById(req.params._id);
         if (!item) {
           throw new AppError(`${model} not found`, `${model} not found`, 404);
         }

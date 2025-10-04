@@ -257,3 +257,151 @@
 {"id":"68e1111cf5e6418b9fde9e37","level":"info","message":"create(): User created","timestamp":"2025-10-04 21:20:44"}
 {"level":"info","message":"POST /api/v1/createUser","statusCode":201,"timestamp":"2025-10-04 21:20:44"}
 {"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-10-04 21:20:54"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:25:32"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:25:32"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:25:32"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:25:32"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:25:32"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:25:32"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:25:32"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:25:34"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:25:35"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:25:35"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:25:35"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:25:35"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:25:35"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:25:35"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:25:35"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:25:37"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:25:37"}
+{"level":"info","message":"GET /api/v1/Classes/?id=68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:25:42"}
+{"level":"info","message":"GET /api/v1/Classes/create","timestamp":"2025-10-04 21:25:49"}
+{"level":"info","message":"GET /api/v1/Classes/?_id=68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:26:11"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:27:46"}
+{"body":{},"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","params":{},"query":{"id":"68d16818fefbeae4346fd5d3"},"timestamp":"2025-10-04 21:27:46"}
+{"count":10,"filter":{},"level":"info","message":"search(): filter and count","timestamp":"2025-10-04 21:27:46"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","statusCode":200,"timestamp":"2025-10-04 21:27:46"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:31:19"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:31:19"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:31:20"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:31:20"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:31:20"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:31:20"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:31:20"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:31:22"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:31:23"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:31:24"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:31:24"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:31:24"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:31:24"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:31:24"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:31:24"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:31:25"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:31:25"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:31:32"}
+{"body":{},"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","params":{},"query":{"id":"68d16818fefbeae4346fd5d3"},"timestamp":"2025-10-04 21:31:32"}
+{"count":10,"filter":{},"level":"info","message":"search(): filter and count","timestamp":"2025-10-04 21:31:32"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","statusCode":200,"timestamp":"2025-10-04 21:31:32"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:31:34"}
+{"body":{},"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","params":{},"query":{"id":"68d16818fefbeae4346fd5d3"},"timestamp":"2025-10-04 21:31:34"}
+{"count":10,"filter":{},"level":"info","message":"search(): filter and count","timestamp":"2025-10-04 21:31:34"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","statusCode":200,"timestamp":"2025-10-04 21:31:34"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:31:55"}
+{"body":{},"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","params":{},"query":{"id":"68d16818fefbeae4346fd5d3"},"timestamp":"2025-10-04 21:31:55"}
+{"count":10,"filter":{},"level":"info","message":"search(): filter and count","timestamp":"2025-10-04 21:31:55"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","statusCode":200,"timestamp":"2025-10-04 21:31:55"}
+{"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-10-04 21:32:22"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:32:27"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:32:27"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:32:27"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:32:27"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:32:27"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:32:27"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:32:27"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:32:29"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:32:30"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:32:31"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:32:31"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:32:31"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:32:31"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:32:31"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:32:31"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:32:32"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:32:32"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:33:17"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:33:17"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:33:18"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:33:18"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:33:18"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:33:18"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:33:18"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:33:20"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:33:21"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:33:22"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:33:22"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:33:22"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:33:22"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:33:22"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:33:22"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:33:24"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:33:24"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:33:28"}
+{"level":"info","message":"GET /api/v1/student/?id=68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:33:30"}
+{"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:34:22"}
+{"body":{},"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","params":{"id":"68d16818fefbeae4346fd5d3"},"query":{},"timestamp":"2025-10-04 21:34:22"}
+{"errors":["\"_id\" is required","\"id\" is not allowed"],"level":"error","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3 Validation failed","timestamp":"2025-10-04 21:34:25"}
+{"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","statusCode":400,"timestamp":"2025-10-04 21:34:25"}
+{"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:34:41"}
+{"body":{},"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","params":{"id":"68d16818fefbeae4346fd5d3"},"query":{},"timestamp":"2025-10-04 21:34:41"}
+{"errors":["\"_id\" is required","\"id\" is not allowed"],"level":"error","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3 Validation failed","timestamp":"2025-10-04 21:34:43"}
+{"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","statusCode":400,"timestamp":"2025-10-04 21:34:43"}
+{"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:34:47"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:35:11"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:35:11"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:35:11"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:35:11"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:35:11"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:35:11"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:35:11"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:35:14"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:35:14"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:35:15"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:35:15"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:35:15"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:35:15"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:35:15"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:35:15"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:35:17"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:35:17"}
+{"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","timestamp":"2025-10-04 21:35:20"}
+{"body":{},"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","params":{"_id":"68d16818fefbeae4346fd5d3"},"query":{},"timestamp":"2025-10-04 21:35:20"}
+{"level":"info","message":"getById(): Students fetched","timestamp":"2025-10-04 21:35:23"}
+{"HTTPStatus":404,"cause":null,"isTrusted":true,"level":"error","message":"Students not found Students not found","name":"Students not found","stack":"Students not found: Students not found\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/student/api.js:59:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:35:23"}
+{"level":"info","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3","statusCode":404,"timestamp":"2025-10-04 21:35:23"}
+{"level":"info","message":"GET /api/v1/student/68dd5274cc8d1083d5c0bd60","timestamp":"2025-10-04 21:35:57"}
+{"body":{},"level":"info","message":"GET /api/v1/student/68dd5274cc8d1083d5c0bd60","params":{"_id":"68dd5274cc8d1083d5c0bd60"},"query":{},"timestamp":"2025-10-04 21:35:57"}
+{"level":"info","message":"getById(): Students fetched","timestamp":"2025-10-04 21:36:00"}
+{"HTTPStatus":404,"cause":null,"isTrusted":true,"level":"error","message":"Students not found Students not found","name":"Students not found","stack":"Students not found: Students not found\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/student/api.js:59:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:36:00"}
+{"level":"info","message":"GET /api/v1/student/68dd5274cc8d1083d5c0bd60","statusCode":404,"timestamp":"2025-10-04 21:36:00"}
+{"level":"info","message":"GET /api/v1/student/68dd5274cc8d1083d5c0bd60","timestamp":"2025-10-04 21:36:14"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:36:43"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:36:43"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:36:43"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:36:43"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:36:43"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:36:43"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:36:43"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:37:00"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:37:00"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:37:01"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:37:01"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:37:01"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:37:01"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:37:01"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:37:01"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:37:03"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:37:03"}
+{"level":"info","message":"GET /api/v1/student/68dd5274cc8d1083d5c0bd60","timestamp":"2025-10-04 21:37:06"}
+{"body":{},"level":"info","message":"GET /api/v1/student/68dd5274cc8d1083d5c0bd60","params":{"_id":"68dd5274cc8d1083d5c0bd60"},"query":{},"timestamp":"2025-10-04 21:37:06"}
+{"id":"68dd5274cc8d1083d5c0bd60","level":"info","message":"getById(): Students fetched","timestamp":"2025-10-04 21:37:10"}
+{"level":"info","message":"GET /api/v1/student/68dd5274cc8d1083d5c0bd60","statusCode":200,"timestamp":"2025-10-04 21:37:10"}

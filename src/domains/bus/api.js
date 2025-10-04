@@ -49,12 +49,12 @@ const routes = () => {
   );
 
   router.get(
-    '/:id',
+    '/:_id',
     logRequest({}),
     validateRequest({ schema: idSchema, isParam: true }),
     async (req, res, next) => {
       try {
-        const item = await getById(req.params.id);
+        const item = await getById(req.params._id);
         if (!item) {
           throw new AppError(`${model} not found`, `${model} not found`, 404);
         }

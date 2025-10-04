@@ -79,3 +79,8 @@
 {"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-10-04 21:19:04"}
 {"errors":["\"username\" is not allowed"],"level":"error","message":"POST /api/v1/createUser Validation failed","timestamp":"2025-10-04 21:19:05"}
 {"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-10-04 21:20:54"}
+{"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-10-04 21:32:22"}
+{"errors":["\"_id\" is required","\"id\" is not allowed"],"level":"error","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3 Validation failed","timestamp":"2025-10-04 21:34:25"}
+{"errors":["\"_id\" is required","\"id\" is not allowed"],"level":"error","message":"GET /api/v1/student/68d16818fefbeae4346fd5d3 Validation failed","timestamp":"2025-10-04 21:34:43"}
+{"HTTPStatus":404,"cause":null,"isTrusted":true,"level":"error","message":"Students not found Students not found","name":"Students not found","stack":"Students not found: Students not found\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/student/api.js:59:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:35:23"}
+{"HTTPStatus":404,"cause":null,"isTrusted":true,"level":"error","message":"Students not found Students not found","name":"Students not found","stack":"Students not found: Students not found\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/student/api.js:59:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:36:00"}
