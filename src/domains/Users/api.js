@@ -75,7 +75,7 @@ const routes = () => {
     }
 
     const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
-    res.json({ message: 'Login successful', code :200 ,token });
+    res.json({ message: 'Login successful', code :200 ,token, role : user.role ? user.role :"" });
       } catch (error) {
         next(error);
       }
