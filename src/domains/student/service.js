@@ -55,7 +55,7 @@ const getById = async (id) => {
 const getALl = async () => {
   try {
     const item = await Model.find();
-    logger.info(`getById(): ${model} fetched`, { id });
+    logger.info(`getById(): ${model} fetched`, { item });
     return item;
   } catch (error) {
     logger.error(`getById(): Failed to get ${model}`, error);
