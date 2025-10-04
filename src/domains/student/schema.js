@@ -18,8 +18,7 @@ function phoneValidator(v) {
 }
 
 const StudentSchema = new Schema({
-  // custom add_id if needed:
-  _id: { type: Schema.Types.ObjectId, default: () => new mongoose.Types.ObjectId(), unique: true },
+
 
   studentId: { type: String, required: true, unique: true, maxlength: 24, trim: true },
 
