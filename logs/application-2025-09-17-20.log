@@ -1,0 +1,18 @@
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-17 20:16:29"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-17 20:16:29"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-17 20:16:29"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-17 20:16:29"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-17 20:16:30"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-17 20:16:30"}
+{"level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-17 20:16:36"}
+{"body":{"email":"riz2019247@gmail.com","password":"khi55656@@@"},"level":"info","message":"POST /api/v1/auth/login","params":{},"query":{},"timestamp":"2025-09-17 20:16:36"}
+{"item":{"__v":0,"_id":"68c97691777f12ab4297351a","createdAt":"2025-09-16T14:39:03.993Z","email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"$2b$10$73DbFHsKFm7fIMiv3nEfFOLgatP2ucJJaXK1keHmI9pCJvvRicHRS","role":"admin","updatedAt":"2025-09-16T14:39:03.993Z"},"level":"info","message":"getByEmail(): customer fetched","timestamp":"2025-09-17 20:16:38"}
+{"level":"info","message":"POST /api/v1/auth/login","statusCode":200,"timestamp":"2025-09-17 20:16:38"}

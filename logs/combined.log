@@ -1,0 +1,667 @@
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-14 22:59:25"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-14 22:59:25"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-14 22:59:26"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:10:45"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:12:35"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:12:45"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:21:03"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:29:59"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:34:26"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:34:26"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:34:27"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:35:22"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:35:31"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:35:48"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:42:41"}
+{"level":"error","message":"MongoDB connection error Password contains unescaped characters","stack":"MongoParseError: Password contains unescaped characters\n    at new ConnectionString (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb-connection-string-url/lib/index.js:115:23)\n    at parseOptions (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/connection_string.js:192:17)\n    at new MongoClient (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/mongo_client.js:52:63)\n    at NativeConnection.createClient (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:293:14)\n    at NativeConnection.openUri (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongoose/lib/connection.js:801:34)\n    at Mongoose.connect (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongoose/lib/mongoose.js:404:15)\n    at connectWithMongoDb (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/libraries/db/index.js:17:18)\n    at startWebServer (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/server.js:37:9)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async start (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/start.js:4:3)","timestamp":"2025-09-15 22:42:41"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:43:26"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:43:26"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:43:26"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:43:26"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:43:26"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:43:26"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:43:26"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:43:26"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:43:26"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:43:26"}
+{"code":8000,"codeName":"AtlasError","connectionGeneration":0,"errorResponse":{"code":8000,"codeName":"AtlasError","errmsg":"bad auth : authentication failed","ok":0},"level":"error","message":"MongoDB connection error bad auth : authentication failed","ok":0,"stack":"MongoServerError: bad auth : authentication failed\n    at Connection.sendCommand (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connection.js:281:27)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Connection.command (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connection.js:304:26)\n    at async continueScramConversation (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/auth/scram.js:131:15)\n    at async executeScram (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/auth/scram.js:80:5)\n    at async performInitialHandshake (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connect.js:101:13)\n    at async connect (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connect.js:19:9)","timestamp":"2025-09-15 22:43:28"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:50:18"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:50:18"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:50:18"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:50:18"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:50:18"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:50:18"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:50:18"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:50:18"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:50:18"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:50:18"}
+{"code":8000,"codeName":"AtlasError","connectionGeneration":0,"errorResponse":{"code":8000,"codeName":"AtlasError","errmsg":"bad auth : authentication failed","ok":0},"level":"error","message":"MongoDB connection error bad auth : authentication failed","ok":0,"stack":"MongoServerError: bad auth : authentication failed\n    at Connection.sendCommand (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connection.js:281:27)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Connection.command (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connection.js:304:26)\n    at async continueScramConversation (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/auth/scram.js:131:15)\n    at async executeScram (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/auth/scram.js:80:5)\n    at async performInitialHandshake (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connect.js:101:13)\n    at async connect (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connect.js:19:9)","timestamp":"2025-09-15 22:50:20"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:58:18"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:58:18"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:58:18"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:58:18"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:58:18"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:58:18"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:58:18"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:58:18"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:58:18"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:58:18"}
+{"code":8000,"codeName":"AtlasError","connectionGeneration":0,"errorResponse":{"code":8000,"codeName":"AtlasError","errmsg":"bad auth : authentication failed","ok":0},"level":"error","message":"MongoDB connection error bad auth : authentication failed","ok":0,"stack":"MongoServerError: bad auth : authentication failed\n    at Connection.sendCommand (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connection.js:281:27)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Connection.command (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connection.js:304:26)\n    at async continueScramConversation (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/auth/scram.js:131:15)\n    at async executeScram (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/auth/scram.js:80:5)\n    at async performInitialHandshake (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connect.js:101:13)\n    at async connect (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connect.js:19:9)","timestamp":"2025-09-15 22:58:20"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:59:16"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:59:16"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:59:16"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:59:16"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:59:16"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:59:16"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:59:16"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:59:16"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:59:16"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:59:16"}
+{"code":8000,"codeName":"AtlasError","connectionGeneration":0,"errorResponse":{"code":8000,"codeName":"AtlasError","errmsg":"bad auth : authentication failed","ok":0},"level":"error","message":"MongoDB connection error bad auth : authentication failed","ok":0,"stack":"MongoServerError: bad auth : authentication failed\n    at Connection.sendCommand (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connection.js:281:27)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Connection.command (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connection.js:304:26)\n    at async continueScramConversation (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/auth/scram.js:131:15)\n    at async executeScram (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/auth/scram.js:80:5)\n    at async performInitialHandshake (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connect.js:101:13)\n    at async connect (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongodb/lib/cmap/connect.js:19:9)","timestamp":"2025-09-15 22:59:18"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 22:59:36"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 22:59:37"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 22:59:37"}
+{"level":"info","message":"POST /api/createUser","timestamp":"2025-09-15 23:03:41"}
+{"level":"info","message":"POST /api/createUser/","timestamp":"2025-09-15 23:04:27"}
+{"level":"info","message":"POST /api/createUser","timestamp":"2025-09-15 23:04:33"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-15 23:06:10"}
+{"level":"info","message":"POST /api/v1/createUser/","timestamp":"2025-09-15 23:06:16"}
+{"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-09-15 23:06:32"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:06:42"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:06:44"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:06:44"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-15 23:06:57"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-15 23:07:36"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:09:25"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:09:25"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:09:26"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:09:26"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:09:26"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:09:26"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:09:29"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:09:29"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:09:29"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:09:29"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:09:31"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:09:31"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-15 23:09:35"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:11:09"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:11:09"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:11:09"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:11:09"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:11:09"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-15 23:11:09"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:11:09"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:11:12"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:11:12"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:11:12"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:11:12"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:11:13"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:11:13"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-15 23:11:19"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin","usernam":"riz121"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-09-15 23:11:19"}
+{"errors":["\"name\" is required","\"fullname\" is not allowed","\"usernam\" is not allowed","\"email\" is not allowed","\"password\" is not allowed","\"role\" is not allowed"],"level":"error","message":"POST /api/v1/createUser Validation failed","timestamp":"2025-09-15 23:11:19"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":400,"timestamp":"2025-09-15 23:11:19"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:13:32"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:13:32"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:13:33"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:13:33"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:13:33"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-15 23:13:33"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:13:33"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:13:35"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:13:35"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:13:35"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:13:35"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:13:37"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:13:37"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:14:11"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:14:11"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:14:11"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:14:11"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:14:11"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-15 23:14:11"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:14:11"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:14:14"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:14:14"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:14:14"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:14:14"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:14:15"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:14:15"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:16:32"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:16:32"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:16:32"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:16:32"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:16:32"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-15 23:16:32"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:16:32"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:16:35"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:16:35"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:16:35"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:16:35"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:16:36"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:16:36"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:17:01"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:17:01"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:17:01"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:17:01"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:17:01"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-15 23:17:01"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:17:01"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:17:03"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:17:03"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:17:03"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:17:03"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:17:04"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:17:04"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:17:15"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:17:15"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:17:16"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:17:16"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:17:16"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-15 23:17:16"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:17:16"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:17:18"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:17:18"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:17:18"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:17:18"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:17:19"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:17:19"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-15 23:17:23"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-09-15 23:17:23"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"schem is not defined schem is not defined","name":"ReferenceError","stack":"ReferenceError: schem is not defined\n    at /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/middlewares/request-validate/index.js:6:30\n    at Layer.handle [as handle_request] (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/express/lib/router/route.js:149:13)\n    at /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/middlewares/log/index.js:37:5\n    at Layer.handle [as handle_request] (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/express/lib/router/index.js:346:12)","timestamp":"2025-09-15 23:17:23"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-09-15 23:17:23"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:17:51"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:17:51"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:17:52"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:17:52"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:17:52"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-15 23:17:52"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:17:52"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:17:54"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:17:54"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:17:54"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:17:54"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:17:55"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:17:55"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-15 23:17:59"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-09-15 23:17:59"}
+{"_message":"User validation failed","errors":{"username":{"kind":"required","message":"Path `username` is required.","name":"ValidatorError","path":"username","properties":{"message":"Path `username` is required.","path":"username","type":"required"}}},"level":"error","message":"create(): Failed to create customer User validation failed: username: Path `username` is required.","stack":"ValidationError: User validation failed: username: Path `username` is required.\n    at model.Document.invalidate (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongoose/lib/document.js:3285:32)\n    at /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongoose/lib/document.js:3046:17\n    at /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2025-09-15 23:18:01"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"User validation failed: username: Path `username` is required. User validation failed: username: Path `username` is required.","name":"Failed to create customer","stack":"Failed to create customer: User validation failed: username: Path `username` is required.\n    at create (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/service.js:18:11)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/api.js:40:22","timestamp":"2025-09-15 23:18:01"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-09-15 23:18:01"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-15 23:18:37"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-15 23:18:37"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-15 23:18:37"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-15 23:18:37"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-15 23:18:37"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-15 23:18:37"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-15 23:18:37"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-15 23:18:39"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-15 23:18:39"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-15 23:18:39"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-15 23:18:39"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-15 23:18:41"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-15 23:18:41"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-15 23:18:44"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-09-15 23:18:44"}
+{"id":"68c82046d8b3ed86f90fb99b","level":"info","message":"create(): customer created","timestamp":"2025-09-15 23:18:46"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":201,"timestamp":"2025-09-15 23:18:46"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 21:36:24"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 21:36:24"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 21:36:25"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 21:36:25"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 21:36:25"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 21:36:25"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 21:36:25"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 21:36:27"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 21:36:27"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 21:36:27"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 21:36:27"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 21:36:28"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 21:36:28"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 21:41:11"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 21:41:11"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 21:41:11"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 21:41:11"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 21:41:11"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 21:41:11"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 21:41:11"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 21:41:14"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 21:41:14"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 21:41:14"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 21:41:14"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 21:41:16"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 21:41:16"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 21:46:09"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 21:46:09"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 21:46:09"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 21:46:09"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 21:46:09"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 21:46:09"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 21:46:09"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 21:46:12"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 21:46:12"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 21:46:12"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 21:46:12"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 21:46:13"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 21:46:13"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 21:46:21"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 21:46:21"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 21:46:21"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 21:46:21"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 21:46:21"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 21:46:21"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 21:46:21"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 21:46:23"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 21:46:23"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 21:46:23"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 21:46:23"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 21:46:24"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 21:46:24"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 21:48:23"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 21:48:23"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 21:48:24"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 21:48:24"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 21:48:24"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 21:48:24"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 21:48:24"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 21:48:26"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 21:48:26"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 21:48:26"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 21:48:26"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 21:48:27"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 21:48:27"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 21:54:03"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 21:54:03"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 21:54:03"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 21:54:03"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 21:54:03"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 21:54:03"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 21:54:03"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 21:54:05"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 21:54:05"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 21:54:05"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 21:54:05"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 21:54:07"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 21:54:07"}
+{"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-09-16 21:54:09"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:28:58"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:28:58"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:28:59"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:28:59"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:28:59"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:28:59"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:28:59"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:29:13"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:29:13"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:29:13"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:29:13"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:29:15"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:29:15"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-16 23:29:20"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:30:21"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:30:21"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:30:21"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:30:21"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:30:21"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:30:21"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:30:21"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:30:23"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:30:23"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:30:23"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:30:23"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:30:24"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:30:24"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-16 23:30:28"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-09-16 23:30:28"}
+{"level":"error","message":"getByEmail(): Failed to get customer id is not defined","stack":"ReferenceError: id is not defined\n    at getByEmail (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/service.js:47:53)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/api.js:41:25","timestamp":"2025-09-16 23:30:28"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"id is not defined id is not defined","name":"Failed to get customer","stack":"Failed to get customer: id is not defined\n    at getByEmail (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/service.js:51:11)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/api.js:41:25","timestamp":"2025-09-16 23:32:21"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-09-16 23:32:21"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-16 23:33:47"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-09-16 23:33:47"}
+{"level":"error","message":"getByEmail(): Failed to get customer id is not defined","stack":"ReferenceError: id is not defined\n    at getByEmail (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/service.js:47:53)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/api.js:41:25","timestamp":"2025-09-16 23:33:59"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:34:22"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:34:22"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:34:22"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:34:22"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:34:22"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:34:22"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:34:22"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:34:24"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:34:24"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:34:24"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:34:24"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:34:26"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:34:26"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-16 23:34:31"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-09-16 23:34:31"}
+{"level":"error","message":"getByEmail(): Failed to get customer id is not defined","stack":"ReferenceError: id is not defined\n    at getByEmail (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/service.js:47:53)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/api.js:41:25","timestamp":"2025-09-16 23:34:33"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:34:53"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:34:53"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:34:54"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:34:54"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:34:54"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:34:54"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:34:54"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:34:56"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:34:56"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:34:56"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:34:56"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:34:58"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:34:58"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:35:25"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:35:25"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:35:25"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:35:25"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:35:25"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:35:25"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:35:25"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:35:27"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:35:27"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:35:27"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:35:27"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:35:29"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:35:29"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-16 23:35:32"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-09-16 23:35:32"}
+{"level":"error","message":"getByEmail(): Failed to get customer id is not defined","stack":"ReferenceError: id is not defined\n    at getByEmail (/Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/service.js:47:53)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/AppleAcademy/Backend/src/domains/Users/api.js:41:25","timestamp":"2025-09-16 23:36:38"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:39:03"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:39:03"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:39:04"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:39:04"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:39:04"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:39:04"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:39:04"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:39:06"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:39:06"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:39:06"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:39:06"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:39:07"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:39:07"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-09-16 23:39:10"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-09-16 23:39:10"}
+{"item":null,"level":"info","message":"getByEmail(): customer fetched","timestamp":"2025-09-16 23:39:13"}
+{"id":"68c97691777f12ab4297351a","level":"info","message":"create(): customer created","timestamp":"2025-09-16 23:39:13"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":201,"timestamp":"2025-09-16 23:39:13"}
+{"level":"info","message":"GET /api/v1/login","timestamp":"2025-09-16 23:40:13"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:42:04"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:42:04"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:42:04"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:42:04"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:42:04"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:42:04"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:42:04"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:42:04"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:42:06"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:42:06"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:42:06"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:42:06"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:42:07"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:42:07"}
+{"level":"info","message":"GET /api/v1/auth/login","timestamp":"2025-09-16 23:42:16"}
+{"level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-16 23:42:27"}
+{"body":{"email":"riz2019247@gmail.com","password":"khi55656@@@"},"level":"info","message":"POST /api/v1/auth/login","params":{},"query":{},"timestamp":"2025-09-16 23:42:27"}
+{"errors":["\"id\" is required","\"email\" is not allowed","\"password\" is not allowed"],"level":"error","message":"POST /api/v1/auth/login Validation failed","timestamp":"2025-09-16 23:42:27"}
+{"level":"info","message":"POST /api/v1/auth/login","statusCode":400,"timestamp":"2025-09-16 23:42:27"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:46:56"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:46:56"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:46:57"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:46:57"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:46:57"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:46:57"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:46:57"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:46:57"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:46:59"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:46:59"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:46:59"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:46:59"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:47:01"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:47:01"}
+{"level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-16 23:47:08"}
+{"body":{"email":"riz2019247@gmail.com","password":"khi55656@@@"},"level":"info","message":"POST /api/v1/auth/login","params":{},"query":{},"timestamp":"2025-09-16 23:47:08"}
+{"errors":["\"email\" contains an invalid value","\"password\" is not allowed"],"level":"error","message":"POST /api/v1/auth/login Validation failed","timestamp":"2025-09-16 23:47:08"}
+{"level":"info","message":"POST /api/v1/auth/login","statusCode":400,"timestamp":"2025-09-16 23:47:08"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:49:25"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:49:25"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:49:25"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:49:25"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:49:25"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:49:25"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:49:25"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:49:25"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:49:27"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:49:27"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:49:27"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:49:27"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:49:29"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:49:29"}
+{"level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-16 23:49:36"}
+{"body":{"email":"riz2019247@gmail.com","password":"khi55656@@@"},"level":"info","message":"POST /api/v1/auth/login","params":{},"query":{},"timestamp":"2025-09-16 23:49:36"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:50:05"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:50:05"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:50:05"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:50:05"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:50:05"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:50:05"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:50:05"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:50:05"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:50:08"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:50:08"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:50:08"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:50:08"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:50:09"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:50:09"}
+{"level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-16 23:50:54"}
+{"body":{"email":"riz2019247@gmail.com","password":"khi55656@@@"},"level":"info","message":"POST /api/v1/auth/login","params":{},"query":{},"timestamp":"2025-09-16 23:50:54"}
+{"item":{"__v":0,"_id":"68c97691777f12ab4297351a","createdAt":"2025-09-16T14:39:03.993Z","email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"$2b$10$73DbFHsKFm7fIMiv3nEfFOLgatP2ucJJaXK1keHmI9pCJvvRicHRS","role":"admin","updatedAt":"2025-09-16T14:39:03.993Z"},"level":"info","message":"getByEmail(): customer fetched","timestamp":"2025-09-16 23:50:57"}
+{"level":"info","message":"POST /api/v1/auth/login","statusCode":200,"timestamp":"2025-09-16 23:50:57"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-16 23:52:10"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-16 23:52:10"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-16 23:52:10"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-16 23:52:10"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-16 23:52:10"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:52:10"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-16 23:52:10"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-16 23:52:10"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-16 23:52:13"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-16 23:52:13"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-16 23:52:13"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-16 23:52:13"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-16 23:52:14"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-16 23:52:14"}
+{"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-09-17 00:00:06"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-17 20:16:27"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-17 20:16:29"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-17 20:16:29"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-17 20:16:29"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-17 20:16:29"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-17 20:16:30"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-17 20:16:30"}
+{"level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-17 20:16:36"}
+{"body":{"email":"riz2019247@gmail.com","password":"khi55656@@@"},"level":"info","message":"POST /api/v1/auth/login","params":{},"query":{},"timestamp":"2025-09-17 20:16:36"}
+{"item":{"__v":0,"_id":"68c97691777f12ab4297351a","createdAt":"2025-09-16T14:39:03.993Z","email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"$2b$10$73DbFHsKFm7fIMiv3nEfFOLgatP2ucJJaXK1keHmI9pCJvvRicHRS","role":"admin","updatedAt":"2025-09-16T14:39:03.993Z"},"level":"info","message":"getByEmail(): customer fetched","timestamp":"2025-09-17 20:16:38"}
+{"level":"info","message":"POST /api/v1/auth/login","statusCode":200,"timestamp":"2025-09-17 20:16:38"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-17 21:07:50"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-17 21:07:52"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-17 21:07:52"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-18 00:35:16"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-18 00:35:18"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-18 00:35:18"}
+{"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-09-18 00:35:25"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-09-18 00:35:48"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-09-18 00:35:48"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"Setting up routes for Product","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"Routes defined","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-09-18 00:35:49"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-09-18 00:35:50"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-09-18 00:35:50"}
+{"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-09-18 00:35:57"}
