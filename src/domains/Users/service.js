@@ -3,12 +3,14 @@ const logger = require('../../libraries/log/logger');
 const Model = require('./schema');
 const { AppError } = require('../../libraries/error-handling/AppError');
 
-const model = 'customer';
+const model = 'User';
 
 const create = async (data) => {
   try {
+           
     const item = new Model(data);
     const saved = await item.save();
+
     logger.info(`create(): ${model} created`, {
       id: saved._id,
     });

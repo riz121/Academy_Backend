@@ -15,7 +15,7 @@ const { createSchema, updateSchema, idSchema,loginSchema} = require('./request')
 const { validateRequest } = require('../../middlewares/request-validate');
 const { logRequest } = require('../../middlewares/log');
 
-const model = 'Customer';
+const model = 'User';
 
 // CRUD for entity
 const routes = () => {

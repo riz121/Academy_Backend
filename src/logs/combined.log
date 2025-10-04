@@ -1113,3 +1113,210 @@
 {"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 20:54:23"}
 {"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 20:54:23"}
 {"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-10-04 20:54:28"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 20:57:26"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 20:57:28"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 20:57:28"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 20:57:50"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 20:57:50"}
+{"item":{"__v":0,"_id":"68c97691777f12ab4297351a","createdAt":"2025-09-16T14:39:03.993Z","email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"$2b$10$73DbFHsKFm7fIMiv3nEfFOLgatP2ucJJaXK1keHmI9pCJvvRicHRS","role":"admin","updatedAt":"2025-09-16T14:39:03.993Z"},"level":"info","message":"getByEmail(): customer fetched","timestamp":"2025-10-04 20:57:50"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":401,"timestamp":"2025-10-04 20:57:50"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 20:58:02"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 20:58:02"}
+{"item":null,"level":"info","message":"getByEmail(): customer fetched","timestamp":"2025-10-04 20:58:02"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","index":0,"keyPattern":{"username":1},"keyValue":{"username":null}},"index":0,"keyPattern":{"username":1},"keyValue":{"username":null},"level":"error","message":"create(): Failed to create customer E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","stack":"MongoServerError: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at InsertOneOperation.execute (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async tryOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-10-04 20:58:02"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null } E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","name":"Failed to create customer","stack":"Failed to create customer: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:18:11)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:30","timestamp":"2025-10-04 20:58:02"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-10-04 20:58:02"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:00:53"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:00:55"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:00:55"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Setting up routes for Customer","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:01:06"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:01:08"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:01:08"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:01:11"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:01:11"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:01:11"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","index":0,"keyPattern":{"username":1},"keyValue":{"username":null}},"index":0,"keyPattern":{"username":1},"keyValue":{"username":null},"level":"error","message":"create(): Failed to create User E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","stack":"MongoServerError: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at InsertOneOperation.execute (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async tryOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-10-04 21:01:12"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null } E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","name":"Failed to create User","stack":"Failed to create User: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:18:11)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:30","timestamp":"2025-10-04 21:01:12"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-10-04 21:01:12"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:01:41"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:01:43"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:01:43"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:01:53"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:01:53"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:01:53"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","index":0,"keyPattern":{"username":1},"keyValue":{"username":null}},"index":0,"keyPattern":{"username":1},"keyValue":{"username":null},"level":"error","message":"create(): Failed to create User E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","stack":"MongoServerError: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at InsertOneOperation.execute (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async tryOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-10-04 21:01:53"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null } E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","name":"Failed to create User","stack":"Failed to create User: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:18:11)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:30","timestamp":"2025-10-04 21:01:53"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-10-04 21:01:53"}
+{"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-10-04 21:02:00"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:02:33"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:02:33"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:02:33"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:02:33"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:02:33"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:02:33"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:02:33"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:02:37"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:02:37"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:02:37"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:02:37"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:02:37"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:02:37"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:02:37"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:02:37"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:02:39"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:02:39"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:02:42"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:02:42"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:03:02"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","index":0,"keyPattern":{"username":1},"keyValue":{"username":null}},"index":0,"keyPattern":{"username":1},"keyValue":{"username":null},"level":"error","message":"create(): Failed to create User E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","stack":"MongoServerError: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at InsertOneOperation.execute (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async tryOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-10-04 21:03:02"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null } E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","name":"Failed to create User","stack":"Failed to create User: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:18:11)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:30","timestamp":"2025-10-04 21:03:02"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-10-04 21:03:02"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:03:14"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:03:14"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:03:32"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","index":0,"keyPattern":{"username":1},"keyValue":{"username":null}},"index":0,"keyPattern":{"username":1},"keyValue":{"username":null},"level":"error","message":"create(): Failed to create User E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","stack":"MongoServerError: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at InsertOneOperation.execute (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async tryOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-10-04 21:03:32"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null } E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","name":"Failed to create User","stack":"Failed to create User: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:18:11)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:30","timestamp":"2025-10-04 21:03:32"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-10-04 21:03:32"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:04:04"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:04:04"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:04:06"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","index":0,"keyPattern":{"username":1},"keyValue":{"username":null}},"index":0,"keyPattern":{"username":1},"keyValue":{"username":null},"level":"error","message":"create(): Failed to create User E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","stack":"MongoServerError: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at InsertOneOperation.execute (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async tryOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/Users/rizwanahmed/Documents/project/Academy_Backend/src/node_modules/mongoose/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-10-04 21:04:12"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null } E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }","name":"Failed to create User","stack":"Failed to create User: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: null }\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:18:11)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:30","timestamp":"2025-10-04 21:04:12"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-10-04 21:04:12"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:04:15"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:04:15"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:04:16"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:07:58"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:07:58"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:07:59"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:07:59"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:07:59"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:07:59"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:07:59"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:08:01"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:08:02"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:08:02"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:08:02"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:08:02"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:08:02"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:08:02"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:08:02"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:08:03"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:08:03"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:08:07"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:08:07"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:08:09"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:08:24"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:08:24"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:08:25"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:08:25"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:08:25"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:08:25"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:08:25"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:08:27"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:08:27"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:08:27"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:08:27"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:08:27"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:08:27"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:08:27"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:08:27"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:08:29"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:08:29"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:08:32"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:08:32"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:08:34"}
+{"level":"error","message":"create(): Failed to create User model.dropIndex is not a function","stack":"TypeError: model.dropIndex is not a function\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:10:19)\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:36\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:08:34"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"model.dropIndex is not a function model.dropIndex is not a function","name":"Failed to create User","stack":"Failed to create User: model.dropIndex is not a function\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:21:11)\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:36\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:08:34"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-10-04 21:08:34"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:08:46"}
+{"body":{"email":"riz2019246@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:08:46"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:08:48"}
+{"level":"error","message":"create(): Failed to create User model.dropIndex is not a function","stack":"TypeError: model.dropIndex is not a function\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:10:19)\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:36\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:08:48"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"model.dropIndex is not a function model.dropIndex is not a function","name":"Failed to create User","stack":"Failed to create User: model.dropIndex is not a function\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:21:11)\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:36\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:08:48"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-10-04 21:08:48"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:09:58"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:09:58"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:10:00"}
+{"level":"error","message":"create(): Failed to create User model.dropIndex is not a function","stack":"TypeError: model.dropIndex is not a function\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:10:19)\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:36\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:10:00"}
+{"HTTPStatus":500,"cause":null,"isTrusted":true,"level":"error","message":"model.dropIndex is not a function model.dropIndex is not a function","name":"Failed to create User","stack":"Failed to create User: model.dropIndex is not a function\n    at create (/Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/service.js:21:11)\n    at /Users/rizwanahmed/Documents/project/Academy_Backend/src/domains/Users/api.js:43:36\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2025-10-04 21:10:00"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":500,"timestamp":"2025-10-04 21:10:00"}
+{"level":"info","message":"Loading and validating config for the first time...","timestamp":"2025-10-04 21:10:17"}
+{"level":"info","message":"Config loaded and validated","timestamp":"2025-10-04 21:10:17"}
+{"level":"info","message":"Starting web server...","timestamp":"2025-10-04 21:10:18"}
+{"level":"info","message":"Express middlewares are set up","timestamp":"2025-10-04 21:10:18"}
+{"level":"info","message":"Defining routes...","timestamp":"2025-10-04 21:10:18"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:10:18"}
+{"level":"info","message":"Setting up routes for User","timestamp":"2025-10-04 21:10:18"}
+{"level":"info","message":"Setting up routes for Classes","timestamp":"2025-10-04 21:10:24"}
+{"level":"info","message":"Setting up routes for Students","timestamp":"2025-10-04 21:10:25"}
+{"level":"info","message":"Setting up routes for Bus","timestamp":"2025-10-04 21:10:25"}
+{"level":"info","message":"Setting up routes for Course","timestamp":"2025-10-04 21:10:25"}
+{"level":"info","message":"Routes defined","timestamp":"2025-10-04 21:10:25"}
+{"level":"info","message":"Server is about to listen to port 4000","timestamp":"2025-10-04 21:10:25"}
+{"level":"info","message":"Server is running on :::4000","timestamp":"2025-10-04 21:10:25"}
+{"level":"info","message":"Connecting to MongoDB...","timestamp":"2025-10-04 21:10:25"}
+{"level":"info","message":"MongoDB connection is open","timestamp":"2025-10-04 21:10:27"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-10-04 21:10:27"}
+{"level":"info","message":"POST /api/v1/createUser","timestamp":"2025-10-04 21:10:31"}
+{"body":{"email":"riz2019247@gmail.com","fullname":"Rizwan Ahmed","password":"khi55656@@@","role":"admin"},"level":"info","message":"POST /api/v1/createUser","params":{},"query":{},"timestamp":"2025-10-04 21:10:31"}
+{"item":null,"level":"info","message":"getByEmail(): User fetched","timestamp":"2025-10-04 21:10:32"}
+{"id":"68e10eb943fb518047f770b1","level":"info","message":"create(): User created","timestamp":"2025-10-04 21:10:34"}
+{"level":"info","message":"POST /api/v1/createUser","statusCode":201,"timestamp":"2025-10-04 21:10:34"}
+{"level":"error","message":"App received SIGINT event, try to gracefully close the server","timestamp":"2025-10-04 21:11:23"}
