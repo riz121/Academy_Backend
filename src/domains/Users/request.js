@@ -5,6 +5,7 @@ const createSchema = Joi.object().keys({
   fullname: Joi.string().required(),
   email: Joi.string().required(),
   password: Joi.string().required(),
+  username: Joi.string().required(),
   role: Joi.string().required(),
 });
 
@@ -13,6 +14,7 @@ const updateSchema = Joi.object().keys({
   email: Joi.string().required(),
   password: Joi.string().required(),
   role: Joi.string().required(),
+  username: Joi.string().required(),
   // other properties
 });
 
