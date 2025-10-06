@@ -9,7 +9,7 @@ const createSchema = Joi.object().keys({
 
 const updateSchema = Joi.object().keys({
   courseName: Joi.string().required(),
-  coursecode: Joi.string().required(),
+  courseCode: Joi.string().required(),
   status:Joi.boolean().required()
 });
 
