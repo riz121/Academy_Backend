@@ -10,6 +10,11 @@ const { logRequest } = require('../../middlewares/log');
 
 const {
   create,
+  search,
+  getById,
+  updateById,
+  deleteById,
+  getALl,
 } = require('./service');
 const model = 'Schedule';
 
