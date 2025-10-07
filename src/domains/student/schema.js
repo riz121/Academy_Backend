@@ -87,7 +87,10 @@ const StudentSchema = new Schema({
       password: { type: String },
     },
   ],
-
+  picture: {
+    type: String, // Base64 encoded image string
+    required: false
+  },
   // draft flag for autosave behavior
   draft: { type: Boolean, default: false },
 
