@@ -79,6 +79,14 @@ const StudentSchema = new Schema({
    courses: [{ type: mongoose.Schema.Types.ObjectId, ref: "Course" }],
    bus:{type: mongoose.Schema.Types.ObjectId, ref: "Bus" },
    teachers: [{ type: mongoose.Schema.Types.ObjectId, ref: "Teacher" }],
+   externalLoginCredential: [
+    {
+      websiteName: { type: String, required: true },
+      link: { type: String },
+      emailOrUsername: { type: String },
+      password: { type: String },
+    },
+  ],
 
   // draft flag for autosave behavior
   draft: { type: Boolean, default: false },

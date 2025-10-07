@@ -3,7 +3,7 @@ const UserRoutes = require('./Users');
 const StudentRoutes = require('./student');
 const BusRoutes = require('./bus');
 const CourseRoutes = require('./course');
-
+const Schedule = require('./Schedule');
 
 const defineRoutes = async (expressRouter) => {
    UserRoutes(expressRouter); 
@@ -11,6 +11,7 @@ const defineRoutes = async (expressRouter) => {
    StudentRoutes(expressRouter);
    BusRoutes(expressRouter);
    CourseRoutes(expressRouter);
+   Schedule(expressRouter)
 };
 
 module.exports = defineRoutes;
