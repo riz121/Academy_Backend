@@ -9,6 +9,7 @@ const {
   updateById,
   deleteById,
   getALl,
+  uniqueSchool
 } = require('./service');
 
 const { createSchema, updateSchema, idSchema } = require('./request');
@@ -32,6 +33,14 @@ const routes = () => {
     }
   });
 
+    router.get('/uniqueSchool', logRequest({}), async (req, res, next) => {
+    try {
+      const items = await uniqueSchool();
+      res.json(items);
+    } catch (error) {
+      next(error);
+    }
+  });
   
 
   router.post(

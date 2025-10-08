@@ -85,11 +85,39 @@ const deleteById = async (id) => {
   }
 };
 
+const uniqueSchool = async (id) => {
+  try {
+    const response = await Model.find();
+    if(response)
+{
+      const uniqueSchools = await Model.aggregate([
+  {
+    $group: {
+      _id: "$school.name", // group by school name
+      school: { $first: "$school" } // pick the first full school object
+    }
+  },
+  {
+    $replaceRoot: { newRoot: "$school" } // return only school object
+  }
+]);
+
+    logger.info(`unique School(): ${model} `);
+    return uniqueSchools;
+}
+
+  } catch (error) {
+    logger.error(`deleteById(): Failed to delete ${model}`, error);
+    throw new AppError(`Failed to delete ${model}`, error.message);
+  }
+};
+
 module.exports = {
   create,
   search,
   getById,
   updateById,
   deleteById,
-  getALl
+  getALl,
+  uniqueSchool
 };
