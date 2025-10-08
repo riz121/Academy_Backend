@@ -11,14 +11,6 @@ const  UserSchema = new mongoose.Schema({
   password: { type: String, required: true },
   role: { type: String, enum: ["admin", "student","teacher","parent"], default: "" ,required :true},
   teacherType : { type: String, enum: ["Home", "Native","PartTime"], default: "",  required: false },
-  driverName :{type: String},
-  driverAge :{type: String},
-  driverArcNumber :{type: String},
-  driverLicenceNumber :{type: String},
-  helperName :{type: String},
-  helperNumber :{type: String},
-  helperAge :{type: String},
-  helperArcNumber :{type: String},
 
   // other properties
 });

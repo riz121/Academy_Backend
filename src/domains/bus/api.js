@@ -37,7 +37,7 @@ const routes = () => {
   router.post(
     '/create',
     logRequest({}),
-    validateRequest({ schema: createSchema }),
+   // validateRequest({ schema: createSchema }),
     async (req, res, next) => {
       try {
         const item = await create(req.body);
@@ -51,7 +51,7 @@ const routes = () => {
   router.get(
     '/:_id',
     logRequest({}),
-    validateRequest({ schema: idSchema, isParam: true }),
+   // validateRequest({ schema: idSchema, isParam: true }),
     async (req, res, next) => {
       try {
         const item = await getById(req.params._id);
@@ -85,7 +85,7 @@ const routes = () => {
     '/:_id',
     logRequest({}),
     validateRequest({ schema: idSchema, isParam: true }),
-    validateRequest({ schema: updateSchema }),
+   // validateRequest({ schema: updateSchema }),
     async (req, res, next) => {
       try {
         const item = await updateById(req.params._id, req.body);
