@@ -9,6 +9,7 @@ const {
   getByEmail,
   updateById,
   deleteById,
+  getAll
 } = require('./service');
 
 const { createSchema, updateSchema, idSchema,loginSchema} = require('./request');
@@ -35,7 +36,7 @@ const routes = () => {
   router.post(
     '/',
     logRequest({}),
-    validateRequest({ schema: createSchema }),
+    //validateRequest({ schema: createSchema }),
     async (req, res, next) => {
       try {
            const user = await getByEmail(req.body.email);
@@ -86,7 +87,7 @@ const routes = () => {
     '/:id',
     logRequest({}),
     validateRequest({ schema: idSchema, isParam: true }),
-    validateRequest({ schema: updateSchema }),
+   // validateRequest({ schema: updateSchema }),
     async (req, res, next) => {
       try {
         const item = await updateById(req.params.id, req.body);
@@ -103,7 +104,7 @@ const routes = () => {
   router.delete(
     '/:id',
     logRequest({}),
-    validateRequest({ schema: idSchema, isParam: true }),
+    //validateRequest({ schema: idSchema, isParam: true }),
     async (req, res, next) => {
       try {
         await deleteById(req.params.id);
@@ -113,6 +114,16 @@ const routes = () => {
       }
     }
   );
+
+    router.get('/getAll', logRequest({}), async (req, res, next) => {
+    try {
+      // TODO: Add pagination and filtering
+      const items = await getAll();
+      res.json(items);
+    } catch (error) {
+      next(error);
+    }
+  });
 
   return router;
 };

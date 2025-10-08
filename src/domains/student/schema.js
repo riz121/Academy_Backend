@@ -91,6 +91,15 @@ const StudentSchema = new Schema({
     type: String, // Base64 encoded image string
     required: false
   },
+  school:{
+    name: {type : String},
+    street: { type: String, required: true },
+    city:   { type: String, required: true },
+    state:  { type: String },
+    postalCode: { type: String, required: true },
+    country: { type: String, required: true },
+
+  },
   // draft flag for autosave behavior
   draft: { type: Boolean, default: false },
 

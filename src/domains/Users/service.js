@@ -61,6 +61,17 @@ const getByEmail = async (email) => {
   }
 };
 
+const getAll = async () => {
+  try {
+    const item = await Model.find();
+    logger.info(`getById(): ${model} fetched`, { item });
+    return item;
+  } catch (error) {
+    logger.error(`getById(): Failed to get ${model}`, error);
+    throw new AppError(`Failed to get ${model}`, error.message);
+  }
+};
+
 
 
 const updateById = async (id, data) => {
@@ -91,4 +102,6 @@ module.exports = {
   getByEmail,
   updateById,
   deleteById,
+  getAll
+
 };
