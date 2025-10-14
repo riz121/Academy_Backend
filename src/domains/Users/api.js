@@ -86,7 +86,7 @@ const routes = () => {
   router.put(
     '/:id',
     logRequest({}),
-    validateRequest({ schema: idSchema, isParam: true }),
+ //   validateRequest({ schema: idSchema, isParam: true }),
    // validateRequest({ schema: updateSchema }),
     async (req, res, next) => {
       try {
